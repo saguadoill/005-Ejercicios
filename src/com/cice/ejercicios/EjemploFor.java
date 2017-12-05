@@ -1,6 +1,6 @@
 package com.cice.ejercicios;
 
-public class EjercicioFor {
+public class EjemploFor {
 
     public static void main(String[] args) {
 
