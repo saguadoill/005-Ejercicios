@@ -32,6 +32,7 @@ public class EjemploForeach {
             System.out.println(condicion++);
         }
 
+
         do{
             System.out.println(condicion++);
         }while(numeros[4]> condicion && 1 == 1){
